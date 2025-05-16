@@ -1,5 +1,5 @@
 absl-py==1.4.0
-streamlit
+streamlit==1.33.0
 antlr4-python3-runtime==4.9.3
 argcomplete==1.8.1
 asttokens==2.2.1
